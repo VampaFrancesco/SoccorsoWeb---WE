@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>it.univaq.webengineering</groupId>
 	<artifactId>soccorsoweb</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.1</version>
 	<name>SoccorsoWeb</name>
 	<description>Progetto di un&apos;applicazione web del corso Web Engineering</description>
 	<url/>
